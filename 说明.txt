@@ -11,3 +11,6 @@ yulong：
 gitee：
 需要开启服务或者更新服务，然后访问地址https://zjw91.gitee.io/health-card/health0202.html，目前已停止服务
 使用镜像服务到github上提交更快
+
+
+已镜像到github
